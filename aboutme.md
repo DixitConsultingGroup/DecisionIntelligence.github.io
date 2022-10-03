@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About us
+subtitle: Optimizing supply chains
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+We are a group of driven individuals with backroung in Operations Research:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Academic experience
+- Industry tie-ups
 
 What else do you need?
 
