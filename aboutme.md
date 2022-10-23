@@ -4,7 +4,7 @@ title: About us
 subtitle: Optimizing supply chains
 ---
 
-We are a group of driven individuals with backroung in Operations Research:
+We are a group of driven individuals with background in Operations Research:
 
 - Academic experience
 - Industry tie-ups
