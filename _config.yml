@@ -22,10 +22,9 @@ author: DCG Limited
 navbar-links:
   About Us: "aboutme"
   Services:
-    - Optimization : "services/optimization.md"
-    - Pricing: "services/pricing.md"
-    - Hulalala: "services/hullaa.md"
-  Author's home: "vaibhavdixit02.github.io"
+    - Optimization : "services/optimization"
+    - Pricing: "services/pricing"
+    - Hulalala: "services/hullaa"
 
 ################
 # --- Logo --- #
