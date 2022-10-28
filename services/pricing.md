@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Pricing2
-subtitle: Pricing 2
+title: Pricing 
+subtitle: Pricing what is right
 ---
 
-# Pricing3
+# Pricing
