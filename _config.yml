@@ -21,7 +21,7 @@ author: DCG Limited
 
 navbar-links:
   About Us: "aboutme"
-  Industries: "Sectors"
+  Industries: "sectors"
   Services:
     - Optimization : "services/optimization"
     - Pricing: "services/pricing"
