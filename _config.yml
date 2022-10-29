@@ -25,7 +25,6 @@ navbar-links:
   Services:
     - Optimization : "services/optimization"
     - Pricing: "services/pricing"
-    - Hulalala: "services/hullaa"
     - Scheduling: "services/Scheduling"
 
 ################
