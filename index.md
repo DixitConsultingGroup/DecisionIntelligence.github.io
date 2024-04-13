@@ -1,6 +1,6 @@
 ---
 layout: home
-title: $${\color{Decision Intelligence and Solution}Black}$$
+title: $${\color{Black}Decision Intelligence and Solution}$$
 subtitle: AI/ML and Optimisation Consultancy
 cover-img: assets/img/frontpage_1.jpg
 ---
