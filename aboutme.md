@@ -1,20 +1,24 @@
 ---
 layout: page
 title: About us
-subtitle: Mathematical Programming and Operations Research
+subtitle: Optimisation and AI Team
 ---
+Our team members come from diverse backgrounds and extensive experience in a wide range of industries.
 
-We are a consulting group comprised of academics and industry professionals specializing in operations research. Our team of experts offers a unique combination of theoretical knowledge and practical experience, allowing us to provide cutting-edge solutions for complex business problems.
+| Dr. Vijaya Dixit                    | Dog pics                            |
+| ----------------------------------- | ----------------------------------- |
+| Associate Professor, Indian Institute of Management, Ranchi
+Experience: Shipping and Logistics
+Expertise: Operations Management
+Project Management
+Large scale multi-objective and stochastic
+optimization models.
 
-At our consulting group, we believe in utilizing the latest analytical tools and techniques to help our clients optimize their operations and improve their bottom line. We work closely with our clients to understand their specific needs and develop tailored solutions that meet their objectives.
+Associations: Project Management Institute of India 
 
-Our team members have diverse backgrounds and extensive experience in a wide range of industries. Our previous experience has included problems related to supply chain management, fleet management and slot allocation. We pride ourselves on our ability to work collaboratively with our clients to deliver innovative solutions that drive measurable results.
+Eduction: PhD (Operations Management) Indian Institute of Management, Lucknow| ![dog](https://example.com/dog.png) |
 
-If you're looking for a consulting partner to help you optimize your operations and improve your business performance, look no further than our team of experts. Contact us today to learn more about how we can help you achieve your business goals.
-
-## Our team
-
-### Dr. Vijaya Dixit
+### 
 
 Dr. Vijaya Dixit is Associate Professor at the Indian Institute of Management, Ranchi. She is a
 Fellow of Indian Institute of Management, Lucknow and Bachelor in Marine Engineering. For more
