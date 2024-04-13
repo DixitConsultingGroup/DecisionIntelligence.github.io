@@ -16,7 +16,7 @@ optimization models|
 
 |Associations: Project Management Institute of India|
 
-|Eduction: PhD (Operations Management) Indian Institute of Management, Lucknow| ![dog](https://example.com/dog.png) |
+| Education: PhD (Operations Management) Indian Institute of Management, Lucknow| ![dog](https://example.com/dog.png) |
 
 ### 
 
