@@ -12,4 +12,4 @@ Our team members come from diverse backgrounds and extensive experience in a wid
 | Expertise: Operations Management, Project Management, Large scale multi-objective and stochastic optimization models|Expertise: Optimisation, Machine Learning, Data Science|
 |Associations: Project Management Institute of India|Associations: Changi Airport, Dalmia Cement, Indigo Airlines, Ports|
 | Education: PhD (Operations Management) Indian Institute of Management, Lucknow| Education: PhD, Operations Research|
-|Contact: <movijaya@gmail.com>||Contact: <aasheeshdixit@gmail.com>|
+|Contact: <movijaya@gmail.com>|Contact: <aasheeshdixit@gmail.com>|
