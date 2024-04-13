@@ -1,6 +1,6 @@
 ---
 layout: home
-title: $$\textcolor{black}{Decision \space Intelligence \space and \space Solution}$$
+title: <span style="color:black">Decision \space Intelligence \space and \space Solution}</span>
 subtitle: AI/ML and Optimisation Consultancy
 cover-img: assets/img/frontpage_1.jpg
 ---
