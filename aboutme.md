@@ -9,13 +9,8 @@ Our team members come from diverse backgrounds and extensive experience in a wid
 | ----------------------------------- | ----------------------------------- |
 | Associate Professor, Indian Institute of Management, Ranchi|
 | Experience: Shipping and Logistics|
-| Expertise: Operations Management,
-Project Management,
-Large scale multi-objective and stochastic
-optimization models|
-
+| Expertise: Operations Management, Project Management, Large scale multi-objective and stochastic optimization models|
 |Associations: Project Management Institute of India|
-
 | Education: PhD (Operations Management) Indian Institute of Management, Lucknow| ![dog](https://example.com/dog.png) |
 
 ### 
