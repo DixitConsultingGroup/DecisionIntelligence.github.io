@@ -3,19 +3,19 @@ layout: page
 
 cover-img: assets/img/1_-Sg103LqOLk2pz58V6beEA.jpg
 ---
-Welcome to our Optimization page, dedicated to providing solutions for complex optimization problems focusing on operations research. 
+Welcome to our Optimization page, dedicated to providing solutions for complex optimization problems faced by Industry. 
 
 Our team of experts has extensive experience in developing and implementing optimization algorithms and models that help our clients improve their operations and achieve their business objectives.
 
-Our expertise includes:
+**Our expertise includes:**
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/supply-chain-process-scaled.jpg" width="250" height="200" />
+    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/supply-chain-process-scaled.jpg" width="200" height="200" />
     <figcaption> Supply Chain Optimization. </figcaption>
   </div>
   <div class="column" style="margin-left: 30px;">
-    <img src = "https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/multi-model%20transportation.jpg" width="250" height="200" />
+    <img src = "https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/multi-model%20transportation.jpg" width="200" height="200" />
     <figcaption> Multi Modal Transportation Optimisation.</figcaption>
     </div>
   </div>
@@ -23,22 +23,22 @@ Our expertise includes:
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Production-Planning-and-Scheduling-Training.jpg" width="250" height="200" />
+    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Production-Planning-and-Scheduling-Training.jpg" width="200" height="200" />
     <figcaption> Production planning and scheduling. </figcaption>
   </div>
   <div class="column" style="margin-left: 30px;">
-    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Inventory-Management-System3-1.jpg" width="250" height="200" />
+    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Inventory-Management-System3-1.jpg" width="200" height="200" />
     <figcaption> Inventory Management System.</figcaption>
     </div>
   </div>
 
 <div class="row">
   <div class="column" >
-    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Fleet-Management-Tech.jpg" width="250" height="200" />
+    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Fleet-Management-Tech.jpg" width="200" height="200" />
     <figcaption> Fleet Management. </figcaption>
   </div>
   <div class="column" style="margin-left: 30px;">
-    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Airline.png" width="250" height="200" />
+    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Airline.png" width="200" height="200" />
     <figcaption> Flight Scheduling.</figcaption>
     </div>
   </div>
