@@ -11,6 +11,18 @@ Our expertise includes:
 
 <div class="row">
   <div class="column">
+    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/supply-chain-process-scaled.jpg" width="250" height="200" />
+    <figcaption> Supply Chain Optimization. </figcaption>
+  </div>
+  <div class="column" style="margin-left: 30px;">
+    <img src = "https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/multi-model%20transportation.jpg" width="250" height="200" />
+    <figcaption> Inventory Management System.</figcaption>
+    </div>
+  </div>
+
+
+<div class="row">
+  <div class="column">
     <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Production-Planning-and-Scheduling-Training.jpg" width="250" height="200" />
     <figcaption> Production planning and scheduling. </figcaption>
   </div>
