@@ -96,7 +96,7 @@ Delve into our portfolio of transformative endeavours, showcasing our expertise 
 <body>
     <div class="container">
         <div class="image">
-            <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/airline.jpeg" alt="Image Description" width="300">
+            <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/airline.jpg" alt="Image Description" width="300">
         </div>
         <div class="description">
             <p>"In the realm of airline operations, we've conducted extensive research spanning airline network optimization, crew scheduling, and roaster generation. Through exploration of sophisticated algorithms, we've delved into optimizing flight routes, improving crew utilization, and enhancing operational efficiency across the entire airline network to optimize resource allocation, minimize costs, reduce delays, and ultimately elevate the passenger experience, showcasing our commitment to innovation in the aviation industry. </p>
