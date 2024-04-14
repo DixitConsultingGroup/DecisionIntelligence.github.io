@@ -6,13 +6,9 @@ cover-img: assets/img/1_-Sg103LqOLk2pz58V6beEA.jpg
 Welcome to our Optimization page, dedicated to providing solutions for complex optimization problems focusing on operations research. Our team of experts has extensive experience in developing and implementing optimization algorithms and models that help our clients improve their operations and achieve their business objectives.
 
 Our expertise includes:
----
-img = assets/img/Fleet-Management-Tech.jpg
----
 <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Production_Scheduling_Challenges.png" width="200" height="200" />
-
 |**Production planning and scheduling**|
-
+<img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Inventory-Management-System3-1.jpg" width="200" height="200" />
 |**Inventory management**|
 
 |**Transportation and logistics optimization** |
