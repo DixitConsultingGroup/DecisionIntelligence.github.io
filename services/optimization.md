@@ -10,7 +10,7 @@ Our team of experts has extensive experience in developing and implementing opti
 Our expertise includes:
 
 <div class="row">
-  <div class="column" style="margin-right: 30px;">
+  <div class="column">
     <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/supply-chain-process-scaled.jpg" width="250" height="200" />
     <figcaption> Supply Chain Optimization. </figcaption>
   </div>
@@ -22,7 +22,7 @@ Our expertise includes:
 
 
 <div class="row">
-  <div class="column" style="margin-right: 30px;">
+  <div class="column">
     <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Production-Planning-and-Scheduling-Training.jpg" width="250" height="200" />
     <figcaption> Production planning and scheduling. </figcaption>
   </div>
@@ -33,7 +33,7 @@ Our expertise includes:
   </div>
 
 <div class="row">
-  <div class="column" style="margin-right: 30px;">
+  <div class="column" >
     <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Fleet-Management-Tech.jpg" width="250" height="200" />
     <figcaption> Fleet Management. </figcaption>
   </div>
@@ -43,6 +43,6 @@ Our expertise includes:
     </div>
   </div>
   
-Our team has deep expertise in mathematical modeling and optimization, with advanced degrees in mathematics, statistics, engineering, and related fields. We stay up-to-date with the latest research and techniques in optimization to provide our clients with cutting-edge solutions.
+Our team has deep expertise in mathematical modelling and optimization, with advanced degrees in mathematics, statistics, engineering, and related fields. We stay up-to-date with the latest research and techniques in optimization to provide our clients with cutting-edge solutions.
 
 If you're looking to optimize your operations and achieve your business goals, our team is here to help. Contact us today to learn more about how we can apply our expertise to solve your optimization problems.
