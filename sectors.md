@@ -27,7 +27,7 @@ Delve into our portfolio of transformative endeavours, showcasing our expertise 
 <body>
     <div class="container">
         <div class="image">
-            <img src="/assets/img/Airport.jpeg" alt="Image Description" width="300">
+            <img src="/assets/img/Airport.jpeg" alt="Image Description" width="500">
         </div>
         <div class="description">
             <p>Our team has spearheaded optimization projects in airport management, tackling crucial tasks such as gate assignment and capacity identification. Utilizing advanced techniques, including computer vision, we've revolutionized how airports optimize their operations, enhancing efficiency and passenger experience. From streamlining gate assignments to identifying and maximizing capacity utilization, our solutions empower airports to thrive in the modern era of air travel.</p>
@@ -64,7 +64,7 @@ Delve into our portfolio of transformative endeavours, showcasing our expertise 
             <p>In our portfolio, we've delved into the realm of vehicle charging schedule optimization, container placement optimisation, and vessel berthing within shipping ports, optimizing every facet of maritime logistics. Utilizing sophisticated algorithms, we've orchestrated efficient charging schedules for electric vehicles, strategically placed containers to minimize handling time, and optimized vessel berthing to streamline operations.</p>
         </div>
         <div class="image">
-            <img src="assets/img/port.jpg" alt="Image Description" width="300">
+            <img src="/assets/img/port.jpg" alt="Image Description" width="500">
         </div>
     </div>
 </body>
@@ -96,7 +96,7 @@ Delve into our portfolio of transformative endeavours, showcasing our expertise 
 <body>
     <div class="container">
         <div class="image">
-            <img src="assets/img/airline.jpg" alt="Image Description" width="300">
+            <img src="/assets/img/airline.jpg" alt="Image Description" width="500">
         </div>
         <div class="description">
             <p>In the realm of airline operations, we've conducted extensive research spanning airline network optimization, crew scheduling, and roaster generation. Through exploration of sophisticated algorithms, we've delved into optimizing flight routes, improving crew utilization, and enhancing operational efficiency across the entire airline network to optimize resource allocation, minimize costs, reduce delays, and ultimately elevate the passenger experience, showcasing our commitment to innovation in the aviation industry. </p>
@@ -134,7 +134,7 @@ Delve into our portfolio of transformative endeavours, showcasing our expertise 
             <p>Our team has tackled the intricate challenge of optimizing salesperson routing and planning schedules within the cement outbound supply chain, revolutionizing how deliveries are efficiently managed and executed.By leveraging advanced algorithms and predictive analytics, we've developed solutions to optimize salesperson routes, minimize travel time, and enhance delivery efficiency, ensuring timely and cost-effective distribution of cement products.</p>
         </div>
         <div class="image">
-            <img src="assets/img/cement.jpg" alt="Image Description" width="300">
+            <img src="/assets/img/cement.jpg" alt="Image Description" width="500">
         </div>
     </div>
 </body>

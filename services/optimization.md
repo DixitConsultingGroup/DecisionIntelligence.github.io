@@ -11,11 +11,11 @@ Our team of experts has extensive experience in developing and implementing opti
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/supply-chain-process-scaled.jpg" width="200" height="200" />
+    <img src="/assets/img/supply-chain-process-scaled.jpg" width="200" height="200" />
     <figcaption> Supply Chain Optimization. </figcaption>
   </div>
   <div class="column" style="margin-left: 30px;">
-    <img src = "https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/multi-model%20transportation.jpg" width="200" height="200" />
+    <img src = "/assets/img/multi-model%20transportation.jpg" width="200" height="200" />
     <figcaption> Multi Modal Transportation Optimisation.</figcaption>
     </div>
   </div>
@@ -23,22 +23,22 @@ Our team of experts has extensive experience in developing and implementing opti
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Production-Planning-and-Scheduling-Training.jpg" width="200" height="200" />
+    <img src="/assets/img/Production-Planning-and-Scheduling-Training.jpg" width="200" height="200" />
     <figcaption> Production planning and scheduling. </figcaption>
   </div>
   <div class="column" style="margin-left: 30px;">
-    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Inventory-Management-System3-1.jpg" width="200" height="200" />
+    <img src="/assets/img/Inventory-Management-System3-1.jpg" width="200" height="200" />
     <figcaption> Inventory Management System.</figcaption>
     </div>
   </div>
 
 <div class="row">
   <div class="column" >
-    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Fleet-Management-Tech.jpg" width="200" height="200" />
+    <img src="/assets/img/Fleet-Management-Tech.jpg" width="200" height="200" />
     <figcaption> Fleet Management. </figcaption>
   </div>
   <div class="column" style="margin-left: 30px;">
-    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Airline.png" width="200" height="200" />
+    <img src="/assets/img/Airline.png" width="200" height="200" />
     <figcaption> Flight Scheduling.</figcaption>
     </div>
   </div>
