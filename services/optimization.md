@@ -8,8 +8,8 @@ Welcome to our Optimization page, dedicated to providing solutions for complex o
 
 Our expertise includes:
 
-- **Production planning and scheduling**                                                            - **Inventory management**
-- **Transportation and logistics optimization**                                                     - **Healthcare resource allocation** 
+|- **Production planning and scheduling** |-**Inventory management**|
+|- **Transportation and logistics optimization** |- **Healthcare resource allocation** |
 
 Our team has deep expertise in mathematical modeling and optimization, with advanced degrees in mathematics, statistics, engineering, and related fields. We stay up-to-date with the latest research and techniques in optimization to provide our clients with cutting-edge solutions.
 
