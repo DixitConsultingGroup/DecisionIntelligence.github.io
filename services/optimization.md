@@ -10,7 +10,7 @@ Our expertise includes: \
     <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Production-Planning-and-Scheduling-Training.jpg" width="250" height="200" />
     <figcaption> Production planning and scheduling. </figcaption>
   </div>
-  <div class="column" style="margin-left: 20px;">
+  <div class="column" style="margin-left: 30px;">
     <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Inventory-Management-System3-1.jpg" width="250" height="200" />
     <figcaption> Inventory Management System.</figcaption>
     </div>
@@ -21,7 +21,7 @@ Our expertise includes: \
     <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Fleet-Management-Tech.jpg" width="250" height="200" />
     <figcaption> Fleet Management. </figcaption>
   </div>
-  <div class="column">
+  <div class="column" style="margin-left: 30px;">
     <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Airline.png" width="250" height="200" />
     <figcaption> Flight Scheduling.</figcaption>
     </div>
