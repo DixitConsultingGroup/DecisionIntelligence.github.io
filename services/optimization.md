@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Optimization Solutions
+
 cover-img: assets/img/1_-Sg103LqOLk2pz58V6beEA.jpg
 ---
 Welcome to our Optimization page, dedicated to providing solutions for complex optimization problems focusing on operations research. 
