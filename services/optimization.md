@@ -3,8 +3,12 @@ layout: page
 title: Optimization Solutions
 cover-img: assets/img/1_-Sg103LqOLk2pz58V6beEA.jpg
 ---
-Welcome to our Optimization page, dedicated to providing solutions for complex optimization problems focusing on operations research. Our team of experts has extensive experience in developing and implementing optimization algorithms and models that help our clients improve their operations and achieve their business objectives.
-Our expertise includes: \
+Welcome to our Optimization page, dedicated to providing solutions for complex optimization problems focusing on operations research. 
+
+Our team of experts has extensive experience in developing and implementing optimization algorithms and models that help our clients improve their operations and achieve their business objectives.
+
+Our expertise includes:
+
 <div class="row">
   <div class="column">
     <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Production-Planning-and-Scheduling-Training.jpg" width="250" height="200" />
