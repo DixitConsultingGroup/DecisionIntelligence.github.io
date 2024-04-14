@@ -1,6 +1,5 @@
 ---
 layout: page
-title : AI & ML
 cover-img: assets/img/ai.jpg
 ---
 Embrace the power of Artificial Intelligence (AI) and Machine Learning (ML) with our cutting-edge solutions tailored to propel your business forward.
