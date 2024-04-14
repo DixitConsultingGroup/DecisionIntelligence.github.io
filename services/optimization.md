@@ -7,7 +7,7 @@ Welcome to our Optimization page, dedicated to providing solutions for complex o
 Our expertise includes: \
 <figure>
   <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Production_Scheduling_Challenges.png" width="200" height="200" />
-  <figcaption> **Production planning and scheduling** </figcaption>
+  <figcaption> **Production planning and scheduling**. </figcaption>
 </figure>
 
 <figure>
