@@ -26,7 +26,7 @@ navbar-links:
     - Optimization : "services/optimization"
     - AI / ML: "services/AIML"
     - KPI Tracking: "services/KPItracking"
-    - Consulting: https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/services/Management-consulting.md
+    - Consulting: "services/Management-consulting"
     
 
 ################
