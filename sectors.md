@@ -69,3 +69,37 @@ Delve into our portfolio of transformative endeavours, showcasing our expertise 
     </div>
 </body>
 </html>
+
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image and Description</title>
+    <style>
+        .container {
+            display: flex;
+            align-items: center;
+        }
+        .image {
+            flex: 1;
+        }
+        .description {
+            flex: 1;
+            padding-left: 20px; /* Adjust spacing as needed */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="image">
+            <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/airline.jpeg" alt="Image Description" width="300">
+        </div>
+        <div class="description">
+            <p>"In the realm of airline operations, we've conducted extensive research spanning airline network optimization, crew scheduling, and roaster generation. Through exploration of sophisticated algorithms, we've delved into optimizing flight routes, improving crew utilization, and enhancing operational efficiency across the entire airline network to optimize resource allocation, minimize costs, reduce delays, and ultimately elevate the passenger experience, showcasing our commitment to innovation in the aviation industry. </p>
+        </div>
+    </div>
+</body>
+</html>
+
