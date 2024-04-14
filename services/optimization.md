@@ -16,7 +16,7 @@ Our expertise includes:
   </div>
   <div class="column" style="margin-left: 30px;">
     <img src = "https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/multi-model%20transportation.jpg" width="250" height="200" />
-    <figcaption> Inventory Management System.</figcaption>
+    <figcaption> Multi Modal Transportation Optimisation.</figcaption>
     </div>
   </div>
 
