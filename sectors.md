@@ -11,6 +11,7 @@ Delve into our portfolio of transformative endeavours, showcasing our expertise 
     <figcaption> Airport </figcaption>
   </div>
   <div class="column" style="margin-left: 30px;">
+    <img src= >
     <figcaption> Our team has spearheaded optimization projects in airport management, tackling crucial tasks such as gate assignment and capacity identification. Utilizing advanced techniques, including computer vision, we've revolutionized how airports optimize their operations, enhancing efficiency and passenger experience. From streamlining gate assignments to identifying and maximizing capacity utilization, our solutions empower airports to thrive in the modern era of air travel.</figcaption>
     </div>
   </div>
