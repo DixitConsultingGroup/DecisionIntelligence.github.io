@@ -10,7 +10,7 @@ Our expertise includes: \
     <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Production-Planning-and-Scheduling-Training.jpg" width="250" height="200" />
     <figcaption> Production planning and scheduling. </figcaption>
   </div>
-  <div class="column" style="margin-left: 50px;"> 
+  <div class="column" style="margin-left: 20px;">
     <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Inventory-Management-System3-1.jpg" width="250" height="200" />
     <figcaption> Inventory Management System.</figcaption>
     </div>
