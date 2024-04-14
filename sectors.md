@@ -5,7 +5,6 @@ subtitle: Past Projects
 ---
 Delve into our portfolio of transformative endeavours, showcasing our expertise and unwavering commitment to excellence. Explore a diverse array of projects, spanning Operations Research (OR) and cutting-edge Artificial Intelligence/Machine Learning (AI/ML) initiatives, each designed to drive innovation and redefine industry standards.
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
