@@ -25,7 +25,7 @@ navbar-links:
   Services:
     - Optimization : "services/optimization"
     - AI / ML: "services/AIML"
-    - KPI Tracking: "services/KPItracking"
+ #   - KPI Tracking: "services/KPItracking" #
     - Consulting: "services/Management-consulting"
     
 
