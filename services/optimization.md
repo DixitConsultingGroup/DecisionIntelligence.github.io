@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Optimization
-subtitle: Optimization Solutions for Operations Research Problems
+title: Optimization Solutions for Operations Research Problems
 
 cover-img: assets/img/1_-Sg103LqOLk2pz58V6beEA.jpg
 ---
