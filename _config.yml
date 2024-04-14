@@ -20,7 +20,7 @@ author: Decision Intelligence & Solutions
 ###############################################
 
 navbar-links:
-  About Us: "aboutme"
+  About Us: "aboutme_v1"
   Industries: "sectors"
   Services:
     - Optimization : "services/optimization"
