@@ -35,3 +35,37 @@ Delve into our portfolio of transformative endeavours, showcasing our expertise 
     </div>
 </body>
 </html>
+
+
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image and Description</title>
+    <style>
+        .container {
+            display: flex;
+            align-items: center;
+        }
+        .image {
+            flex: 1;
+        }
+        .description {
+            flex: 1;
+            padding-right: 20px; /* Adjust spacing as needed */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="description">
+            <p>In our portfolio, we've delved into the realm of vehicle charging schedule optimization, container placement optimisation, and vessel berthing within shipping ports, optimizing every facet of maritime logistics. Utilizing sophisticated algorithms, we've orchestrated efficient charging schedules for electric vehicles, strategically placed containers to minimize handling time, and optimized vessel berthing to streamline operations.</p>
+        </div>
+        <div class="image">
+            <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/port.jpg" alt="Image Description" width="300">
+        </div>
+    </div>
+</body>
+</html>
