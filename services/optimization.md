@@ -10,7 +10,7 @@ Our team of experts has extensive experience in developing and implementing opti
 Our expertise includes:
 
 <div class="row">
-  <div class="column"> style="margin-right: 30px;">
+  <div class="column" style="margin-right: 30px;">
     <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/supply-chain-process-scaled.jpg" width="250" height="200" />
     <figcaption> Supply Chain Optimization. </figcaption>
   </div>
@@ -22,7 +22,7 @@ Our expertise includes:
 
 
 <div class="row">
-  <div class="column"> style="margin-right: 30px;">
+  <div class="column" style="margin-right: 30px;">
     <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Production-Planning-and-Scheduling-Training.jpg" width="250" height="200" />
     <figcaption> Production planning and scheduling. </figcaption>
   </div>
@@ -33,7 +33,7 @@ Our expertise includes:
   </div>
 
 <div class="row">
-  <div class="column"> style="margin-right: 30px;">
+  <div class="column" style="margin-right: 30px;">
     <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Fleet-Management-Tech.jpg" width="250" height="200" />
     <figcaption> Fleet Management. </figcaption>
   </div>
