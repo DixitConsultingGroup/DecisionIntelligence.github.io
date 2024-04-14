@@ -8,7 +8,7 @@ Welcome to our Optimization page, dedicated to providing solutions for complex o
 
 Our expertise includes:
 
-img: assets/img/frontpage_1.jpg
+image: assets/img/frontpage_1.jpg
 **Production planning and scheduling**
 
 
