@@ -9,13 +9,8 @@ Our expertise includes: \
 **Production planning and scheduling**
 <figure>
   <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Inventory-Management-System3-1.jpg" width="200" height="200" />
-  <figcaption>Caption describing the Inventory Management System.</figcaption>
+  <figcaption> Inventory Management System.</figcaption>
 </figure>
-|**Inventory management**|
-
-|**Transportation and logistics optimization** |
-
-|**Healthcare resource allocation** |
 
 Our team has deep expertise in mathematical modeling and optimization, with advanced degrees in mathematics, statistics, engineering, and related fields. We stay up-to-date with the latest research and techniques in optimization to provide our clients with cutting-edge solutions.
 
