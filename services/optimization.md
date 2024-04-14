@@ -19,11 +19,11 @@ Our expertise includes: \
 <div class="row">
   <div class="column">
     <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Fleet-Management-Tech.jpg" width="250" height="200" />
-    <figcaption> Production planning and scheduling. </figcaption>
+    <figcaption> Fleet Management. </figcaption>
   </div>
   <div class="column">
     <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Airline.png" width="250" height="200" />
-    <figcaption> Inventory Management System.</figcaption>
+    <figcaption> Flight Scheduling.</figcaption>
     </div>
   </div>
   
