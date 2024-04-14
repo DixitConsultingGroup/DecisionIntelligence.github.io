@@ -7,7 +7,7 @@ Welcome to our Optimization page, dedicated to providing solutions for complex o
 Our expertise includes: \
 <div class="row">
   <div class="column">
-    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Production-Planning-and-Scheduling-Training-1.jpg" width="250" height="200" />
+    <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Production-Planning-and-Scheduling-Training.jpg" width="250" height="200" />
     <figcaption> Production planning and scheduling. </figcaption>
   </div>
   <div class="column">
