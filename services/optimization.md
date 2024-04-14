@@ -9,12 +9,12 @@ Our expertise includes:
 ---
 img = https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Fleet-Management-Tech.jpg
 ---
-**Production planning and scheduling**
+|**Production planning and scheduling**|
 
-
-||
 |**Inventory management**|
+
 |**Transportation and logistics optimization** |
+
 |**Healthcare resource allocation** |
 
 Our team has deep expertise in mathematical modeling and optimization, with advanced degrees in mathematics, statistics, engineering, and related fields. We stay up-to-date with the latest research and techniques in optimization to provide our clients with cutting-edge solutions.
