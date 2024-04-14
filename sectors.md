@@ -3,7 +3,7 @@ layout: page
 title: Sectors 
 subtitle: Past Projects
 ---
-Delve into our portfolio of transformative endeavours, showcasing our expertise and unwavering commitment to excellence. Explore a diverse array of projects, spanning Operations Research (OR) and cutting-edge AI/ML initiatives, each designed to drive innovation and redefine industry standards.
+Delve into our portfolio of transformative endeavours, showcasing our expertise and unwavering commitment to excellence. Explore a diverse array of projects, spanning Optimisation and cutting-edge AI/ML initiatives, each designed to drive innovation and redefine industry standards.
 
 <html lang="en">
 <head>
