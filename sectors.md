@@ -105,3 +105,37 @@ Delve into our portfolio of transformative endeavours, showcasing our expertise 
 </body>
 </html>
 
+
+
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image and Description</title>
+    <style>
+        .container {
+            display: flex;
+            align-items: center;
+        }
+        .image {
+            flex: 1;
+        }
+        .description {
+            flex: 1;
+            padding-right: 20px; /* Adjust spacing as needed */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="description">
+            <p>Our team has tackled the intricate challenge of optimizing salesperson routing and planning schedules within the cement outbound supply chain, revolutionizing how deliveries are efficiently managed and executed.By leveraging advanced algorithms and predictive analytics, we've developed solutions to optimize salesperson routes, minimize travel time, and enhance delivery efficiency, ensuring timely and cost-effective distribution of cement products.</p>
+        </div>
+        <div class="image">
+            <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/cement.jpg" alt="Image Description" width="300">
+        </div>
+    </div>
+</body>
+</html>
