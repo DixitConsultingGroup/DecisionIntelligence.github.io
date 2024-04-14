@@ -7,7 +7,10 @@ Welcome to our Optimization page, dedicated to providing solutions for complex o
 Our expertise includes: \
 <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Production_Scheduling_Challenges.png" width="200" height="200" />
 **Production planning and scheduling**
-<img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Inventory-Management-System3-1.jpg" width="200" height="200" />
+<figure>
+  <img src="https://github.com/DixitConsultingGroup/dixitconsultinggroup.github.io/blob/master/assets/img/Inventory-Management-System3-1.jpg" width="200" height="200" />
+  <figcaption>Caption describing the Inventory Management System.</figcaption>
+</figure>
 |**Inventory management**|
 
 |**Transportation and logistics optimization** |
