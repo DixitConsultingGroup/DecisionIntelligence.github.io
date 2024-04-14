@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Optimization Solutions for Operations Research Problems
-
 image: assets/img/1_-Sg103LqOLk2pz58V6beEA.jpg
 ---
 Welcome to our Optimization page, dedicated to providing solutions for complex optimization problems focusing on operations research. Our team of experts has extensive experience in developing and implementing optimization algorithms and models that help our clients improve their operations and achieve their business objectives.
