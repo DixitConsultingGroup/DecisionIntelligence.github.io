@@ -24,9 +24,10 @@ navbar-links:
   Industries: "sectors"
   Services:
     - Optimization : "services/optimization"
-    - Pricing: "services/pricing"
-    - Supply Chain: "services/supplychain"
-    - Auction: "services/auction"
+    - AI / ML: "services/AIML"
+    - KPI Tracking: "services/KPItracking"
+    - Consulting: "services/Management-consulting"
+    
 
 ################
 # --- Logo --- #
